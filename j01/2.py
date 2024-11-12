@@ -1,0 +1,12 @@
+a = 10
+b = 20
+k = 5
+l = 3
+c = a + b
+d = a - b
+e = a * b
+f = a / b
+g = a % b
+h = k % l
+x = k ** l
+u = b // l
