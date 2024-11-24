@@ -10,4 +10,3 @@ print(ali_rezaee)
 for _ in ali_rezaee:
     if type(_) == float:
         print(_) 
-        
